@@ -1,3 +1,7 @@
+Smart contract url on testnet scanner: 
+1) Implimentation Smatr Contract: https://sepolia.etherscan.io/address/0xac77b589373d29d3a01d693e53cae860122080fd#code
+2) Proxy Smart Contract         : https://sepolia.etherscan.io/address/0x3e3b1b5aea3818ff7d3130082baf0db8a9873dc2#code
+
 Vite App for Smart Contract Proxy Implementation
 This document provides an overview of the Vite app developed for interacting with a smart contract proxy on the Ethereum blockchain. The app allows users to perform various operations such as minting tokens, staking, unstaking, and retrieving token balances and staking details.
 
